@@ -11,8 +11,6 @@
   * [Quick start](#Quick-start)
   * [Screenshots](#screenshots)
   * [Technical Aspect](#technical-aspect)
-  * [Team](#team)
-  * [License](#license)
   
 
   • This repository consists of files required to deploy an ___WEB PAGE___ created with ___HTML, CSS, BOOTSTRAP, ML, DL___ on ___github.io___ platform.
@@ -101,7 +99,6 @@ index.html
 ![g2](https://user-images.githubusercontent.com/62024355/120784742-0a8a0000-c54a-11eb-81a3-daee8b1eafd8.jpg)
 ![g3](https://user-images.githubusercontent.com/62024355/120784744-0b229680-c54a-11eb-9596-d324a25a192a.jpg)
 ![g4](https://user-images.githubusercontent.com/62024355/120784746-0bbb2d00-c54a-11eb-9365-df3172efcde1.jpg)
-![g5](https://user-images.githubusercontent.com/62024355/120784749-0bbb2d00-c54a-11eb-9d8a-3f4b53b9f208.jpg)
 ![g6](https://user-images.githubusercontent.com/62024355/120784751-0c53c380-c54a-11eb-8401-6353e69ff728.jpg)
 ![g7](https://user-images.githubusercontent.com/62024355/120784730-078f0f80-c54a-11eb-8c37-dffa48791db5.jpg)
 ![Untitled](https://user-images.githubusercontent.com/62024355/120785788-1a561400-c54b-11eb-85d7-dcc64bb959f8.png)
